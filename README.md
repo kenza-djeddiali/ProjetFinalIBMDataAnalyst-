@@ -37,10 +37,16 @@ Créés avec **IBM Cognos Analytics** :
 2. Tendances technologiques futures  
 3. Profil démographique des répondants  
 
-![Exemple Dashboard](./images/dashboard_preview.png)  <!-- tu peux mettre une capture ici -->
+![Exemple Dashboard](./images/dashboard_preview.png) 
+
+L’ensemble de données utilisé provient de la **Stack Overflow Developer Survey**.  
+Le fichier CSV original est disponible ici : [Télécharger survey_data_updated.csv](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/HLOosvsPgIwt5dgOOh1RSg/survey-data-updated.csv)
+
 
 ## Résultat final
 Le projet met en avant l’importance de la **veille technologique**, de l’adaptabilité et de l’analyse de données pour guider les décisions stratégiques et les investissements futurs.
+
+
 
 ---
 
